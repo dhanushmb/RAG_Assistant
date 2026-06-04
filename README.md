@@ -12,8 +12,8 @@ Check out the todo list to see the next steps and improvements [here](notes/todo
 > [!IMPORTANT]
 > Disclaimer:
 > The code has been tested on:
->   * `Ubuntu 22.04.2 LTS` running on a Lenovo Legion 5 Pro with twenty `12th Gen Intel® Core™ i7-12700H` and
-      an `NVIDIA GeForce RTX 3060`.
+>   * `Ubuntu 22.04.2 LTS` running on a Custom PC with twenty `13th Gen Intel® Core™ i9-14900k` and
+      an `NVIDIA GeForce RTX 4080`.
 >   * `MacOS Sonoma 14.3.1` running on a MacBook Pro M1 (2020).
 >
 > If you are using another Operating System or different hardware, and you can't load the models, please
